@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 const Portfolio: React.FC = () => {
   return (
-    <div className="mt-5 lg:mt-20 w-full" style={{background: "linear-gradient(to right, white 20%, #FEF4F6 20%)"}}>
+    <div className="mt-5 lg:mt-20 w-full pb-5" style={{background: "linear-gradient(to right, white 20%, #FEF4F6 20%)"}}>
       <h3 className="font-bold" style={{ color: "#B4B2C4" }}>
         PORTFOLIO
       </h3>
