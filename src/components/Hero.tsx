@@ -20,8 +20,8 @@ const Hero: React.FC = () => {
           way.
         </p>
         <div className="flex gap-5">
-          <Button className="bg-blue-950 px-7">See My Work</Button>
-          <Button className="px-7" style={{ background: "#33A1CD" }}>
+          <Button className="bg-blue-950 px-7 py-2">See My Work</Button>
+          <Button className="px-7 py-2" style={{ background: "#33A1CD" }}>
             Start a Project
           </Button>
         </div>
