@@ -13,7 +13,7 @@ const Portfolio: React.FC = () => {
         {projects.map((a) => (
           <Card
             key={a.id}
-            className="w-80 h-80 flex items-center flex-col justify-center"
+            className="w-96 h-96 flex items-center flex-col justify-center"
             style={{ background: "#D9F4FF" }}
           >
             <CardHeader>
